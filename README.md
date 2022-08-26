@@ -21,7 +21,7 @@ Create a mimic drumset. Employ your understanding of basic JavaScript as well as
 ### Links
 
 - [Repo URL](https://github.com/akcumeh/drumkit)
-- [Live Site URL](https://akcumeh.github.com/drumkit)
+- [Live Site URL](https://akcumeh.github.io/drumkit)
 
 ## My process
 
